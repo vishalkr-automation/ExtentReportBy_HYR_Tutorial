@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1259" started-at="2022-11-30T14:14:50 IST" finished-at="2022-11-30T14:14:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1259" started-at="2022-11-30T14:14:50 IST" finished-at="2022-11-30T14:14:52 IST">
+      <class name="package3.Video_10_RemoveOrChangeOrderOfTabsInTheExtentReports">
+        <test-method status="PASS" signature="f()[pri:0, instance:package3.Video_10_RemoveOrChangeOrderOfTabsInTheExtentReports@87f383f]" name="f" duration-ms="1232" started-at="2022-11-30T14:14:50 IST" description="Capture HTML Tag value" finished-at="2022-11-30T14:14:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- package3.Video_10_RemoveOrChangeOrderOfTabsInTheExtentReports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
